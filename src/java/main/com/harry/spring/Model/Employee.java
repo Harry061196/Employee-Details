@@ -1,10 +1,10 @@
 package com.harry.spring.Model;
 
-import java.io.Serializable;
 
-public class Employee implements Serializable 
+
+public class Employee 
 {
-    private static final long serialVersionUID = -1280037900360314186L;
+    
 
     private Integer id;
     private String name;
